@@ -4,11 +4,12 @@ This github is in reference to Digitization and Data Frames for Card Index Recor
 
 We develop a methodology for converting card index archival records into usable dataframes for statistical and textual analyses. Leveraging machine learning and  natural language processing tools from Amazon Web Services (AWS), we overcome hurdles associated with character recognition, inconsistent data reporting, column misalignment, and irregularnaming. This code is aimed to serve as a supplement for the paper which details the step-by-step conversion process and discusses remedies for common problems and edge cases, using historical records from the Reconstruction Finance Corporation.
 
-The code for running the process outlined in the paper are located in AWS_Code.ipynb.
+The code for running the process outlined in the paper are located in "AWS_Code.ipynb".
 
 ## Code Instructions:
 - The training data used to train the two custom comprehend models are provided in the "Training File" code. 
 - The orginal pdf with card images has been uploaded as: "Cards_34.pdf"
+- A sample CSV Output has been included within the "Sample CSV Output" folder, named "Cards_34.csv". If implemented correctly, the functions in "AWS_Code.ipynb" should yield an output file that is similar to the given output file. Small discrepencies may exist due to updates in packages and AWS.
 - The code assumes basic knowledge of AWS textract and AWS Comrephend API. If needed, documentation of these can be found here: 
        -  https://docs.aws.amazon.com/textract/latest/dg/async.html
        -  https://docs.aws.amazon.com/comprehend/latest/dg/functionality.html
