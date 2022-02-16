@@ -1,0 +1,556 @@
+Text,Type
+LA-17609,Abbrev
+LA-14768,Abbrev
+LA-1697,Abbrev
+PSS-879,Abbrev
+CSP-133,Abbrev
+CDP-2355,Abbrev
+CDPA-304,Abbrev
+LA-6602,Abbrev
+LA-2787,Abbrev
+LA-3220,Abbrev
+LA-3529,Abbrev
+LA-7716,Abbrev
+LAA-1941,Abbrev
+LA-5769,Abbrev
+DP-222,Abbrev
+CNP-149,Abbrev
+LA-3196,Abbrev
+LA-4078,Abbrev
+LA-10065,Abbrev
+LA-21609,Abbrev
+PSS-545,Abbrev
+DP-536,Abbrev
+LA-6936,Abbrev
+LA-10967,Abbrev
+LA-15702,Abbrev
+DP-2395,Abbrev
+LA-19275,Abbrev
+PSS-2326,Abbrev
+LA-6395,Abbrev
+LAA-1012,Abbrev
+R-2215,Abbrev
+R-5299,Abbrev
+R-6943,Abbrev
+LAA-644,Abrrev
+"$100,000.00",Amount
+"$25,000.00",Amount
+"$10,000.00",Amount
+"$425,000.00",Amount
+"$1,236,000.00",Amount
+"$200,000.00",Amount
+"$8,750.00",Amount
+"$16,000.00",Amount
+"$125,000.00",Amount
+"$75,000.00",Amount
+"$115,000.00",Amount
+"$124,700.00",Amount
+"$21,000.00",Amount
+"$140,000.00",Amount
+"$63,000.00",Amount
+"$80,000.00",Amount
+"$32,000.00",Amount
+"$60,000.00",Amount
+"$13,000.00",Amount
+"$20,000.00",Amount
+"$659,116.89",Amount
+"$16,500.00",Amount
+"$15,000.00",Amount
+"$365,000.00",Amount
+"$345,000.00",Amount
+"$249,935.00",Amount
+"$178,730.00",Amount
+"$142,830.00",Amount
+Cherryville National Bank,Bank
+Chesapeake Banking Company,Bank
+Chesapeake and Ohio Railway,Bank
+Cheshire County Savings Bank,Bank
+Chesnee Cash Depository,Bank
+Chester Building & Loan Assn,Bank
+Chester County Trust Company,Bank
+Cheyenne County State Bank,Bank
+Chicago Lake State Bank,Bank
+Chinese-American Bank,Bank
+Chippewa Trust Company,Bank
+Chisago State Bank,Bank
+Dahl's House Company,Bank
+Chouteau Mortgage Company,Bank
+Chouteau Trust Company,Bank
+Citizens Bank,Bank
+Chester Savings Bank,Bank
+Chester State Bank,Bank
+Chester Trust Company,Bank
+Chester-Cambridge Bank & Trust Company,Bank
+"Apr. 18, 1932",Date
+"Dec. 9, 1932",Date
+"July 2, 1934",Date
+12/28/33,Date
+12.29.47,Date
+"July 11, 1933",Date
+6/1/44,Date
+"March 31, 1932",Date
+12/31/33,Date
+5 / 5/34,Date
+"Aug. 4, 1932",Date
+"May 7, 1932",Date
+"May 17, 1932",Date
+"May 24, 1932",Date
+"Sep. 7, 1932",Date
+12/6/32,Date
+"Jan. 6, 1933",Date
+"July 15, 1932",Date
+12/14/33,Date
+4/21/41,Date
+1/5/35,Date
+1/30/35,Date
+1 /10/34,Date
+2 /10/34,Date
+9.16.47,Date
+"May 16, 1932",Date
+8/6/35,Date
+"June 7, 1932",Date
+"Dec. 28, 1932",Date
+"Mar. 9, 1936",Date
+9/5/36,Date
+12/18/33,Date
+2-14-49,Date
+12/23/33,Date
+3-16-46,Date
+"Aug. 12, 1932",Date
+"Feb. 3, 1933",Date
+"Jan. 20, 1934",Date
+1 /26/34,Date
+8/23/38,Date
+"Jan. 22, 1935",Date
+7/18/35,Date
+2 /23/34,Date
+3-15-46,Date
+"July 29, 1932",Date
+8/2/32,Date
+"Jan. 10, 1933",Date
+"July 26, 1933",Date
+"Apr. 10, 1934",Date
+Loan approved,Decision
+Ren. approved,Decision
+Originally approved,Decision
+approved,Decision
+Railroad Loan - DECLINED,Decision
+rescinds,Decision
+B & L Loan approved,Decision
+INCREASED,Decision
+declined,Decision
+Mort. Loan approved,Decision
+DLB. approved,Decision
+DECREASED,Decision
+"Cherryville, North Carolina",Location
+"Lively, Virginia",Location
+Che sapeake Beach Railway Company,Location
+"Keene, New Hampshire",Location
+"Chesnee, South Carolina",Location
+"Chester, Conn.",Location
+"West Chester, Pennsylvania",Location
+"Cheyenne Wells, Colo.",Location
+"Minneapolis, Minnesota",Location
+"Honolulu, Territory of Hawaii",Location
+"Saint Louis, Missouri",Location
+"Chisago City, Minnesota",Location
+"Minneapolis, Minn.",Location
+"Clovis, New Mexico",Location
+"Hutchinson, Minnesota",Location
+"Mount Olive, N. C.",Location
+"Chester, Vermont",Location
+"Chester, Nebraska",Location
+"Chester, Connecticut",Location
+"Chester, Pennsylvania",Location
+DOCKET REC'D,Other
+1-2-2003,Other
+s,Other
+(Loan 1),Other
+(R.1-L.1),Other
+(Loan 2),Other
+as Conservator.,Other
+DOCKET RECOD,Other
+NSB,Other
+I,Other
+(RR),Other
+Docket Received,Other
+1-2-3-4-5-6-7,Other
+(Loan 3),Other
+(Loan 4),Other
+(R.1-L.3),Other
+See Card #2,Other
+Card #0,Other
+DOCKET,Other
+1-2,Other
+(Loan 6),Other
+(Loan 7),Other
+DOCKET RBO'D,Other
+DOCKET REC'T,Other
+1-2-3-4,Other
+To,Other
+(R.3-L.1),Other
+t2,Other
+Docket Receided,Other
+DOCKET RECE,Other
+DOCKET REC'D.,Other
+BDP.,Other
+SEE:,Other
+"DOCKET REC'D,",Other
+(Loan 5),Other
+DOCKIT REOD,Other
+PAID,Paid
+RAID,Paid
+Citizens Savings Bank,Bank
+Citizens Savings Bank & Trust Company,Bank
+Citizens & Security National Bank,Bank
+Citizens Security National Bank,Bank
+Bucklin State Bank,Bank
+Buckman & Ulmer,Bank
+Bucyrus City Bank,Bank
+Buena Vista Loan & Savings Bank,Bank
+Buffalo Building & Loan Assn.,Bank
+Buffalo Gap State Bank,Bank
+Buffalo Savings Bank,Bank
+"Buffalo, Union & Carolina Railroad",Bank
+Builders & Merchants Bank & Trust Company,Bank
+Builders Mortgage Company,Bank
+Building & Loan Association,Bank
+Build-With Brick Mortgage Company,Bank
+Bullitt County Bank,Bank
+Bulloch Mortgage Loan Company,Bank
+Buna State Bank,Bank
+Bunnell State Bank,Bank
+Burke State Bank,Bank
+Burlington County National Bank,Bank
+Burlington County Trust Company,Bank
+Burlington Joint Stock Land Bank,Bank
+Burlington National Bank,Bank
+Burlington State Bank,Bank
+Burlington Trust Co.,Bank
+Burlington Trust Company,Bank
+Burnet National Bank,Bank
+Burnett State Bank,Bank
+Burnham Street State Bank,Bank
+Cadillac State Bank,Bank
+Cadillac State Depositors Corporation,Bank
+Cahn Bank & Trust Company,Bank
+Cairo Banking Company,Bank
+Cairo-Alexander County Bank,Bank
+Citizens State Bank,Bank
+Chouteau Trust Company,Bank
+Chrisman-Sawyer Bank,Bank
+Chrisney State Bank,Bank
+CHRISTIAN COUNTY BANK,Bank
+Church Hill Bank of Maryland,Bank
+Churubusco State Bank,Bank
+Churchill County Bank Mortgage Corporation,Bank
+Cicero State Bank,Bank
+Cimmaron Valley Bank,Bank
+Cincinnati Bank & Trust Company,Bank
+Cincinnati Union Terminal Co.,Bank
+Cincinnati Morris Plan Bank,Bank
+Cinnaminson Bank & Trust Company,Bank
+Circleville Savings & Banking Company,Bank
+Circleville Bank,Bank
+Cisco Mortgage Loan Company,Bank
+Citizens American Bank,Bank
+"Saint Louis, Missouri",Location
+"Independence, Missouri",Location
+"Chrisney, Indiana",Location
+"Ozark, Missouri",Location
+"Racine, Wisconsin",Location
+"Church Hill, Maryland",Location
+"Fallon, Nevada",Location
+"Churubusco, Ind.",Location
+"Cicero, New Yorl",Location
+"Coyle, Oklahoma",Location
+"Cincinnati, Ohio",Location
+"Riverton, New Jersey",Location
+"Riverton, N. J.",Location
+"Circleville, West Virginia",Location
+"Circleville, Ohio",Location
+"Cisco, Texas ",Location
+"Merrill, Wisconsin",Location
+"Bucklin, Kansas",Location
+"Bucklin, Missouri",Location
+"Jacksonville, Fla.",Location
+Pennsylvania,Location
+"Bucks County, Pa.",Location
+"Bucyrus, Ohio",Location
+"Buena, Washington",Location
+"Buena Vista, Virginia",Location
+"Buena, Vista, Georgia",Location
+"Chester, Ill.",Location
+"Buffalo, Wyo.",Location
+South Dakota,Location
+Wisconsin,Location
+"Buffalo Gap, S. D.",Location
+"Buffalo Gap, South Dakota ",Location
+"Buffalo, Iowa",Location
+"Chicago, Illinois",Location
+"Houston, Texas",Location
+"Milton, Pennsylvania",Location
+"Elizabeth, New Jersey",Location
+"Jackson, Mississippi",Location
+"Cleveland, Ohio",Location
+Kentucky,Location
+"Shepherdsville, Kentucky",Location
+"Statesboro, Georgia",Location
+"Buna, Texas",Location
+"Bunnell, Florida",Location
+"Burke, South Dakota",Location
+"Medford, New Jersey",Location
+"Moorestown, New Jersey",Location
+"Des Moines, Iowa",Location
+"Burlington, Wisconsin",Location
+"Burlington, Iowa",Location
+"Burlington, Vermont",Location
+"Burlington, Indiana",Location
+"Burlington, Vt",Location
+"Burnet, Texas",Location
+"Burnett, Wisconsin",Location
+"West Allis, Wisconsin",Location
+"West Allis, Wisc.",Location
+"Durango, Colorado",Location
+"Burnside, Pennsylvania",Location
+"Burnside, Iowa",Location
+"Burt, N. D",Location
+"Burton, Texas",Location
+"Urbana, Illinois",Location
+"Bush City, Kansas",Location
+"Jersey City, New Jersey",Location
+"Butler, Pa.",Location
+"Arco, Idaho",Location
+"Dorris, California",Location
+"Byars, Oklahoma",Location
+"Byers, Colorado",Location
+"East Port Chester, Connecticut",Location
+"Byron Center, Mich.",Location
+"Chicago, Ill.",Location
+"Everett, Washington.",Location
+"Oklahoma City, Oklahoma",Location
+"Chicopee, Massachusetts",Location
+"Logan, Utah.",Location
+"Belcher, Louisiana",Location
+"Cadillac, Michigan",Location
+"Meridian, Mississippi",Location
+"Cairo, Georgia",Location
+"Cairo, Ill.",Location
+"June 7, 1932",Date
+"Dec. 28, 1932",Date
+"Mar. 9, 1936",Date
+9/5/36,Date
+"Dec. 22, 1933",Date
+"June 5, 1933",Date
+"Mar. 9, 1936",Date
+1/25/35,Date
+4 /10/34,Date
+5 /25/34,Date
+6/7/34,Date
+9 /24/34,Date
+10/3/34,Date
+9/15/41,Date
+"Nov. 11, 1932",Date
+12/21/33,Date
+12/30/33,Date
+5/1/36,Date
+4/30/41,Date
+5/16/39,Date
+5/22/39,Date
+"Apr. 10, 1933",Date
+2/18/33,Date
+12/20/33,Date
+1-24-50,Date
+"Apr. 7, 1937",Date
+6/3/32,Date
+12/19/32,Date
+8/2/34,Date
+3/16/40,Date
+"Aug. 3, 1932",Date
+"May 18, 1933",Date
+"Oct. 9, 1934",Date
+1/22/34,Date
+3 /15/34,Date
+1/26/37,Date
+12/27/33,Date
+"June 25, 1932",Date
+"Apr. 12, 1932",Date
+"Oct. 22, 1932",Date
+3/9/33,Date
+"May 19, 1933",Date
+"Feb. 19, 1934",Date
+7/11/34,Date
+8/18/39,Date
+"July 13, 1934",Date
+6/5/34,Date
+"Oct. 9, 1935",Date
+6/26/35,Date
+12/31/33,Date
+3-26-46,Date
+"May 21, 1934",Date
+1/30/35,Date
+1/13/34,Date
+2/1/34,Date
+10/12/36,Date
+RA-240,Abbrev
+LA-4078,Abbrev
+LAA-644,Abbrev
+LA-10065,Abbrev
+LA-21609,Abbrev
+LA-15223,Abbrev
+R-1565,Abbrev
+LA-19306,Abbrev
+RA-43,Abbrev
+RA-410,Abbrev
+CPSS-3241,Abbrev
+CPSSA-629,Abbrev
+CPSS-3586,Abbrev
+PSS-3143,Abbrev
+CPSSA-990,Abbrev
+PSSA-1884,Abbrev
+LA-9081,Abbrev
+RA-74,Abbrev
+RA-295,Abbrev
+RA-376,Abbrev
+RA-017,Abbrev
+RA-29,Abbrev
+RA-188,Abbrev
+LA-3151,Abbrev
+MCLA-3203,Abbrev
+DP-464,Abbrev
+LA-23871,Abbrev
+LA-23739,Abbrev
+LA-3936,Abbrev
+R-1752,Abbrev
+DP-2866,Abbrev
+LA-6528,Abbrev
+LA-13110,Abbrev
+RA-71,Abbrev
+RA-190,Abbrev
+LA-15711,Abbrev
+DP-2599,Abbrev
+LA-4884,Abbrev
+LA-1533,Abbrev
+R-501,Abbrev
+LAA-3010,Abbrev
+R-4346,Abbrev
+R-6497,Abbrev
+LA-17398,Abbrev
+LA-20334,Abbrev
+DP-1230,Abbrev
+LA-17267,Abbrev
+DP-2227,Abbrev
+ DP-2471,Abbrev
+CPSS-3073,Abbrev
+PSS-2606,Abbrev
+CNP-91,Abbrev
+RA-23,Abbrev
+RA-38,Abbrev
+RA-90,Abbrev
+RA-142,Abbrev
+LA-1868,Abbrev
+R-326,Abbrev
+R-4361,Abbrev
+DP-735,Abbrev
+LA-3895 ,Abbrev
+PSS-263,Abbrev
+RA-294,Abbrev
+LA-2306,Abbrev
+LAA-419,Abbrev
+LA-5549,Abbrev
+R-216,Abbrev
+R-3427,Abbrev
+LAA-3074 ,Abbrev
+R-5432,Abbrev
+LA-6315,Abbrev
+R-2997,Abbrev
+LA-5732,Abbrev
+R-3746,Abbrev
+RA-236,Abbrev
+RA-132,Abbrev
+RA-196,Abbrev
+LA-971,Abbrev
+LA-6206,Abbrev
+RA-193,Abbrev
+LA-17222,Abbrev
+LA-13012,Abbrev
+LA-12562,Abbrev
+LA-8269,Abbrev
+LA-15106,Abbrev
+LA-18258,Abbrev
+RA-29,Abbrev
+RA-188,Abbrev
+RA-199,Abbrev
+RA-268,Abbrev
+PSS-1501,Abbrev
+LA-16096,Abbrev
+LA-20599,Abbrev
+LA-23026,Abbrev
+LA-24175,Abbrev
+LAA-26398,Abbrev
+RA-206,Abbrev
+DP-2586,Abbrev
+DP-1599,Abbrev
+RA-410,Abbrev
+LA-357,Abbrev
+R-2650,Abbrev
+PSS-1370,Abbrev
+LA-4475,Abbrev
+R-3887,Abbrev
+R-4861,Abbrev
+BPA-48,Abbrev
+PSS-1370,Abbrev
+CPSS-4947,Abbrev
+PSS-4662,Abbrev
+PSSA-6320,Abbrev
+LA-13313,Abbrev
+LA-15680,Abbrev
+CDP-1012,Abbrev
+CDPA-113,Abbrev
+CDP-2592,Abbrev
+CDP-2977,Abbrev
+CDPA-409,Abbrev
+DP-2919,Abbrev
+LA-10921,Abbrev
+R-6038,Abbrev
+R-6762,Abbrev
+CNP-158,Abbrev
+CCNP-103,Abbrev
+CNP-229,Abbrev
+CNPA-141,Abbrev
+CCNP-109,Abbrev
+CNP-237,Abbrev
+CNPA-153,Abbrev
+DP-704,Abbrev
+DPA-791,Abbrev
+CDP-2873,Abbrev
+DP-2795,Abbrev
+CPSS-4853,Abbrev
+PSS-4579,Abbrev
+PSSA-5315,Abbrev
+CPSS-3669,Abbrev
+PSS-3415,Abbrev
+LA-15718,Abbrev
+LA-10611,Abbrev
+LA-10832,Abbrev
+LA-12173,Abbrev
+DP-237,Abbrev
+LA-8105,Abbrev
+LA-8468,Abbrev
+LA-15475,Abbrev
+LA-1379,Abbrev
+R-99,Abbrev
+R-3728,Abbrev
+CNP-52,Abbrev
+LA-16369 ,Abbrev
+LA-10399,Abbrev
+R -5372,Abbrev
+LA-14357,Abbrev
+R -7529 ,Abbrev
+CPSS-3716,Abbrev
+PSSA-1351,Abbrev
+CPSS-3917,Abbrev
+CPSSA-883,Abbrev
+PSS-3563,Abbrev
+CPSL-316,Abbrev
+PSL-998,Abbrev
