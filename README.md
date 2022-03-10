@@ -4,7 +4,7 @@ This GitHub is in reference to the article “Digitization and Data Frames for C
 We develop a methodology for converting card index archival records into usable data frames for statistical and textual analyses. Leveraging machine learning and natural language processing tools from Amazon Web Services (AWS), we overcome hurdles associated with character recognition, inconsistent data reporting, column misalignment, and irregular naming. This code is aimed to serve as a supplement for the paper which details the step-by-step conversion process and discusses remedies for common problems and edge cases, using historical records from the Reconstruction Finance Corporation.
 
 
-##File Details:
+## File Details:
 - AWS_Code.ipynb is the main coding file.
 - Cards_34.pdf is a sample of RFC card index records to be converted with this code.
 - The “Training” subfolder contains the text and CSV files necessary to train the two custom Comprehend models.
