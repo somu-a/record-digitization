@@ -9,7 +9,7 @@ We develop a methodology for converting card index archival records into usable 
 - Cards_34.pdf is a sample of RFC card index records to be converted with this code.
 - The “Training” subfolder contains the text and CSV files necessary to train the two custom Comprehend models.
 - The “Sample CSV Output” subfolder contains the final CSV output that is associated with Cards_34.pdf. If implemented correctly, the functions in AWS_Code.ipynb should yield an output file that is similar to Card_34.csv. Small discrepancies may exist due to updates in packages and AWS.
-- The “Textract” subfolder contains the Textract-produced text files that are associated with the Cards_34.pdf and the Cards_34.csv. 
+- The "Sample Textract Files" subfolder contains the Textract-produced text files that are associated with the Cards_34.pdf and the Cards_34.csv. 
 - Detailed_Instructions.pdf provides step-by-step instructions on how to execute the code.
 - VossmeyerAmujalaDas_EXEH.pdf is the academic article associated with this project. 
 
